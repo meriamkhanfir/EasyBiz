@@ -18,6 +18,7 @@ Firebase : Pour la gestion des notifications en temps réel.
 PostgreSQL : Pour le stockage structuré des données, comme les utilisateurs, produits, et transactions.
 ### Intelligence Artificielle :
 TensorFlow ou PyTorch : Pour entraîner et déployer le modèle d’IA interactif pour la confirmation des commandes.
+#####
 Scikit-learn : Pour le système de recommandation basé sur des algorithmes de filtrage collaboratif ou de contenu.
 ### Paiements :
 Stripe API : Pour la gestion des paiements sécurisés par carte D17.
